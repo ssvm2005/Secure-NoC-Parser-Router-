@@ -84,7 +84,7 @@ module secure_noc_router_tb();
     // 14 = exhaustive ACL sweep (all 12 valid pairs)
     //=============================================================
 
-    localparam TESTCASE = 5;
+    localparam TESTCASE = 0;
 
 
     //=================================================================
